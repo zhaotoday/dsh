@@ -5,6 +5,7 @@
 - [DeepSeek Harness 白皮书 · dsh-handbook](https://electricitysheep.github.io/dsh-handbook/#/)
 
 #### 开源
+- [DSH-X](https://github.com/yyh-001/DSH-X)
 - [dsh-code](https://github.com/UNLINEARITY/dsh-code)
 - [dsh-vision-toolkit](https://github.com/Anionex/dsh-vision-toolkit)
 - [dsh-ego-browser](https://github.com/Fisfzy/dsh-ego-browser)
