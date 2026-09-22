@@ -4,6 +4,9 @@
 - [DeepSeek Harness 官方教程](https://deepseek-harness.github.io/deepseek-harness/develop/basic/)
 - [DeepSeek Harness 白皮书 · dsh-handbook](https://electricitysheep.github.io/dsh-handbook/#/)
 
+#### 产品
+- [Jingyun DSH 客户端](https://jingyun.studio/zh/jingyun-dsh)
+
 #### 开源
 - [DSH-X](https://github.com/yyh-001/DSH-X)
 - [dsh-code](https://github.com/UNLINEARITY/dsh-code)
