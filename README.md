@@ -1,3 +1,9 @@
+# DSH
+
+DeepSeek Harness（DSH）的社区资源导航。这里汇总入门教程、相关产品，以及社区开源项目，方便查找客户端、插件和工具。
+
+开源项目按用途分类，涵盖创作与办公、市场、界面与上下文、Agent 与工作流、客户端、浏览器与视觉、安全、记忆、搜索接入和插件开发。每一类按 GitHub stars 从高到低排列，并附上中文简介。
+
 #### 教程
 - [deepseek harness中文详细学习教程](https://github.com/ht426/deepseek-harness-tutorial)
 - [DeepSeek Harness 的入门第一课](https://github.com/pingfanfan/hello-dsh/blob/main/README.zh.md)
