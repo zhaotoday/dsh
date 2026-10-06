@@ -17,6 +17,9 @@ DeepSeek Harness（DSH）的社区资源导航。这里汇总入门教程、相�
 
 按 GitHub stars 降序（2026-09-22）。分类按该类最高 stars 排列，类内同样降序。简介为仓库当前介绍的中文。
 
+##### 未分类
+- [DSHA](https://github.com/DSH-APP/DSHA)
+
 ##### 创作、图像与办公
 - [archify](https://github.com/tt-a1i/archify) ★69674 — 用于绘制美观、可核对的架构图、工作流、时序图、数据流与生命周期图的 Agent 技能，输出带动态效果、可清晰导出的独立 HTML。
 - [dsh-image-gen](https://github.com/shanliuling/dsh-image-gen) ★448 — DeepSeek Harness 的 AI 图像工作室：在对话中生成、编辑和对比图片，含 500+ 提示词、图库、多模型工作流与 ComfyUI。
